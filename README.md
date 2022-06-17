@@ -1,31 +1,25 @@
-# Test
+# ShareLeh!
+<p align="center">
+  <img width="366" alt="Home Page" src="https://user-images.githubusercontent.com/77710925/174340734-2bb86fd5-9eeb-45e1-8b84-09b0638998e9.png">
+</p>
 
-A new Flutter project.
+## What is ShareLeh!
 
-## Getting Started
+ShareLeh! is an application that serves as a platform that connects NS men together and allows them to donate and exchange NS equipment.
 
-FlutterFlow projects are built to run on the Flutter _stable_ release.
+This would help to enhance Convenience and Flexibility for NSmen preparing for their reservists and for those NSMen that do not want their equipment. 
 
-### IMPORTANT:
+The app has 2 main features, Find and Donate which serves to target the two different type of NSMen.
 
-For projects with Firestore integration, you must first run the following commands to ensure the project compiles:
+## Find
+<img src="https://user-images.githubusercontent.com/77710925/174340222-b8ada3ba-45e6-474b-b69a-de5e813d88f5.jpg" width="280" height="609" />
 
-```
-flutter pub get
-flutter packages pub run build_runner build --delete-conflicting-outputs
-```
+## Donate
+<img src="https://user-images.githubusercontent.com/77710925/174340235-03d892be-06c4-4097-b9b7-34c66df6dc9d.jpg" width="280" height="609" />
 
-This command creates the generated files that parse each Record from Firestore into a schema object.
-
-### Getting started continued:
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Contributors
+> Anand Chaanan Singh [@CSA100](https://github.com/CSA100) <br>
+> Anand Chiraag Singh [@Snail664](https://github.com/Snail664) <br>
+> Bryan Lim Kai Wen [@zonpig](https://github.com/zonpig) <br>
+> Lenson Lim Shao Zhe [@Lebarnon](https://github.com/Lebarnon) <br>
+> Ng Yong Jie [@yongjicode](https://github.com/yongjicode) <br>
