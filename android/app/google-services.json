@@ -1,0 +1,46 @@
+{
+  "project_info": {
+    "project_number": "74021264116",
+    "project_id": "brain-hack-ed618",
+    "storage_bucket": "brain-hack-ed618.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:74021264116:android:aee263211539834e759ca1",
+        "android_client_info": {
+          "package_name": "com.flutterflow.sniffsocial"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "74021264116-ekghu63o7788uertiaeg74a5eic41113.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDx08PbP6HtIzwI4g9u_zONgLOQKrkBevk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "74021264116-ekghu63o7788uertiaeg74a5eic41113.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "74021264116-nh5to853b6mkddpjn9f7shhl1gl8a966.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.flutterflow.sniffsocial"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
